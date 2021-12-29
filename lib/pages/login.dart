@@ -53,6 +53,7 @@ class _LoginPageState extends State<LoginPage> {
               labelText: "Password",
             ),
           ),
+          //new line
           SizedBox(
             height: 20,
           ),
